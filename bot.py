@@ -68,7 +68,7 @@ def create_range_message(app_name: str, number_range: str, country: str, carrier
     # একদম ফ্রেশ এবং প্রফেশনাল ভিআইপি ডিজাইন
     text = (
         f"🔥 **𝐍𝐄𝐖 𝐀𝐂𝐓𝐈𝐕𝐄 𝐑𝐀𝐍𝐆** 🔥\n\n"
-        f"🌍 **𝐂𝐫𝐮𝐧𝐭𝐫𝐲:** {flag} {country}\n"
+        f"🌐 **𝐂𝐫𝐮𝐧𝐭𝐫𝐲:** {flag} {country}\n"
         f"📶 **𝐑𝐚𝐧𝐠:** `{number_range}`\n"
         f"🏢 **𝐂𝐚𝐫𝐫𝐢𝐞𝐫:** {carrier_display}\n"
         f"🔵 **𝐒𝐞𝐫𝐯𝐢𝐜𝐞:** {app_display}\n"
