@@ -177,7 +177,7 @@ async def monitor_loop():
                             processed_ids.append(msg_id)
                             new_data_found = True
                             
-                            await asyncio.sleep(3.1)
+                            await asyncio.sleep(10)
             
             if not new_data_found:
                 if time.time() - last_heartbeat > 30:
