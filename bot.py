@@ -17,7 +17,7 @@ API_URL = "https://x.mnitnetwork.com/mapi/v1/mdashboard/console/info"
 # তোমার ব্রাউজার থেকে পাওয়া একদম নতুন টোকেন এবং কুকি
 MAUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX0k0VkE3RkU2UiIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3NzY4Mjg4NzgsImNyZWF0ZWQiOjE3NzY3NDI0NzgsIjJvbzkiOiJNc0giLCJleHAiOjE3NzY4Mjg4NzgsImlhdCI6MTc3Njc0MjQ3OCwic3ViIjoiTV9JNFZBN0ZFNlIifQ.LeXHWzXyMq0I0nNNnmdhDjk012ptMwhjvpMudjycebI"
 
-COOKIE_DATA = "mauthtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX0k0VkE3RkU2UiIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3NzY4Mjg4NzgsImNyZWF0ZWQiOjE3NzY3NDI0NzgsIjJvbzkiOiJNc0giLCJleHAiOjE3NzY4Mjg4NzgsImlhdCI6MTc3Njc0MjQ3OCwic3ViIjoiTV9JNFZBN0ZFNlIifQ.LeXHWzXyMq0I0nNNnmdhDjk012ptMwhjvpMudjycebI; cf_clearance=zR2O5_AmdhDIeQftiaZfNwSqFRDifr2ehHNQu6Jw8q4-1776774653-1.2.1.1-nhuG0sMStguP0dzU8D5_GYYe1lqY.uAqbc7OCQJYDpYQBkAm_pdg6E99Tuj1JYX8MNh4.9FLwm1mWHd.uwADn85mKdwImpDowYQgPcWDFLqoYd1YZL9kkxSiHltckMnJx1ePoHi0_vACV_p1bY5uRrrj6sNVVprnfRBg93s1xHKt.k305d2DUYyfMt5Yap5JZx_hYY9jj00dgffd9aVe5eRPdsCU1dHVChmRaKQ.i.Ptq2yrCLfc.R_9EQuQ32Q3qv6nZUPpgidVGXBdsjcWGafamjflt81WsTkMLdC4MuBwD3xR8FiuO1xKdAntXMwdTgT7yUFDVHIjyF29wQR7kw; TawkConnectionTime=0; twk_uuid_681787a55d55ef191a9da720=%7B%22uuid%22%3A%221.Ws5fNn3B3jtPb5VwJIV72bULtbVrmIGVECkvIdlVtObmwTts0jfxpP7wOqftlRphv8hGSHEouYvyMG8KX6vsSezC5RRocZQO3z6AWCeEWJFEAETJ73gSnDcqX%22%2C%22version%22%3A3%2C%22domain%22%3A%22mnitnetwork.com%22%2C%22ts%22%3A1776774655643%7D"
+COOKIE_DATA = "mauthtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX0k0VkE3RkU2UiIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3NzY4Mjg4NzgsImNyZWF0ZWQiOjE3NzY3NDI0NzgsIjJvbzkiOiJNc0giLCJleHAiOjE3NzY4Mjg4NzgsImlhdCI6MTc3Njc0MjQ3OCwic3ViIjoiTV9JNFZBN0ZFNlIifQ.LeXHWzXyMq0I0nNNnmdhDjk012ptMwhjvpMudjycebI; twk_uuid_681787a55d55ef191a9da720=%7B%22uuid%22%3A%221.Ws5fNn3B3jtPb5VwJIV72bULtbVrmIGVECkvIdlVtObmwTts0jfxpP7wOqftlRphv8hGSHEouYvyMG8KX6vsSezC5RRocZQO3z6AWCeEWJFEAETJ73gSnDcqX%22%2C%22version%22%3A3%2C%22domain%22%3A%22mnitnetwork.com%22%2C%22ts%22%3A1776786929577%7D; cf_clearance=GeaCWrtNKxUpCM8MUVtOlCSsoXO8w6G_e9SbfynRgLE-1776789815-1.2.1.1-lgMneRll4Em4yS8vULwrfhDcGsxPCun.wUsRgcrpOTnpgi3kkURwSvPaO3jPzExxfm7AsXnyA9xIOkYjGBIgNCOBtFi4tMAfSfjQv7dCLxJN2oYGvFI.1zYO6zw6xtNEteRh8WTxPFFJFMWLkkKxDYSX9gUuhc44ZxO6m6y2zvZFSVzyj7sY5.gXN_6rIt6UQXpLJ3zobt.S.fmCuRQTdZLptAHS57M7zMROymOYqkBgVdjSfFlzqfPgcW34Tc0XcO7_cAYAjQuetbO8Je5Mm0pqWl3mQxsSM1g0UJyZUFIInB.olSsvMKKyInaGgSuV2xqACVjHnP5c4YKflC0XKw; TawkConnectionTime=1776789833072"
 
 # ট্র্যাকিং 
 processed_ids = deque(maxlen=10000)
@@ -67,13 +67,13 @@ def create_range_message(app_name: str, number_range: str, country: str, carrier
 
     # একদম ফ্রেশ এবং প্রফেশনাল ভিআইপি ডিজাইন
     text = (
-        f"✅ **New Active Range** ✅\n\n"
-        f"🌍 **Country:** {flag} {country}\n"
-        f"📶 **Range:** `{number_range}`\n"
-        f"🏢 **Carrier:** {carrier_display}\n"
-        f"🔵 **Service:** {app_display}\n"
-        f"💬 **SMS:** `{clean_sms}`\n\n"
-        f"💎 **Powered By [SKY](https://t.me/SKYSMSOWNER)**"
+        f"🔥 **𝐍𝐄𝐖 𝐀𝐂𝐓𝐈𝐕𝐄 𝐑𝐀𝐍𝐆** 🔥\n\n"
+        f"🌍 **𝐂𝐫𝐮𝐧𝐭𝐫𝐲:** {flag} {country}\n"
+        f"📶 **𝐑𝐚𝐧𝐠:** `{number_range}`\n"
+        f"🏢 **𝐂𝐚𝐫𝐫𝐢𝐞𝐫:** {carrier_display}\n"
+        f"🔵 **𝐒𝐞𝐫𝐯𝐢𝐜𝐞:** {app_display}\n"
+        f"💬 **𝐒𝐌𝐒:** `{clean_sms}`\n\n"
+        f"🕋**𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 [𝐒𝐊𝐘](https://t.me/SKYSMSOWNER)**🕋"
     )
     return text
 
@@ -83,8 +83,8 @@ async def send_range_to_telegram(session: aiohttp.ClientSession, app_name: str, 
     # বোতামগুলো সুন্দর করে দেওয়া হলো
     reply_markup = {
         "inline_keyboard": [
-            [{"text": "🚀 Get Number Now 🚀", "url": "https://t.me/SKYSMSPRO_BOT"}],
-            [{"text": "📞 Join Our Channel", "url": "https://t.me/SKYOFFICIALCHANNEL1"}]
+            [{"text": "📞 𝐆𝐞𝐭 𝐍𝐮𝐦𝐛𝐞𝐫", "url": "https://t.me/SKYSMSPRO_BOT"}],
+            [{"text": "‼️ 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥", "url": "https://t.me/SKYOFFICIALCHANNEL1"}]
         ]
     }
 
