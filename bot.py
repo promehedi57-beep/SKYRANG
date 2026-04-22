@@ -14,10 +14,11 @@ TELEGRAM_CHAT_ID = "-1003800508577"
 
 API_URL = "https://x.mnitnetwork.com/mapi/v1/mdashboard/console/info"
 
-# তোমার ব্রাউজার থেকে পাওয়া একদম নতুন টোকেন এবং কুকি
+# আপনার দেওয়া একদম নতুন টোকেন
 MAUTH_TOKEN = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX0k0VkE3RkU2UiIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3NzY4Mjg4NzgsImNyZWF0ZWQiOjE3NzY3NDI0NzgsIjJvbzkiOiJNc0giLCJleHAiOjE3NzY4Mjg4NzgsImlhdCI6MTc3Njc0MjQ3OCwic3ViIjoiTV9JNFZBN0ZFNlIifQ.LeXHWzXyMq0I0nNNnmdhDjk012ptMwhjvpMudjycebI"
 
-COOKIE_DATA = "mauthtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX0k0VkE3RkU2UiIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3NzY4Mjg4NzgsImNyZWF0ZWQiOjE3NzY3NDI0NzgsIjJvbzkiOiJNc0giLCJleHAiOjE3NzY4Mjg4NzgsImlhdCI6MTc3Njc0MjQ3OCwic3ViIjoiTV9JNFZBN0ZFNlIifQ.LeXHWzXyMq0I0nNNnmdhDjk012ptMwhjvpMudjycebI; twk_uuid_681787a55d55ef191a9da720=%7B%22uuid%22%3A%221.Ws5fNn3B3jtPb5VwJIV72bULtbVrmIGVECkvIdlVtObmwTts0jfxpP7wOqftlRphv8hGSHEouYvyMG8KX6vsSezC5RRocZQO3z6AWCeEWJFEAETJ73gSnDcqX%22%2C%22version%22%3A3%2C%22domain%22%3A%22mnitnetwork.com%22%2C%22ts%22%3A1776786929577%7D; cf_clearance=GeaCWrtNKxUpCM8MUVtOlCSsoXO8w6G_e9SbfynRgLE-1776789815-1.2.1.1-lgMneRll4Em4yS8vULwrfhDcGsxPCun.wUsRgcrpOTnpgi3kkURwSvPaO3jPzExxfm7AsXnyA9xIOkYjGBIgNCOBtFi4tMAfSfjQv7dCLxJN2oYGvFI.1zYO6zw6xtNEteRh8WTxPFFJFMWLkkKxDYSX9gUuhc44ZxO6m6y2zvZFSVzyj7sY5.gXN_6rIt6UQXpLJ3zobt.S.fmCuRQTdZLptAHS57M7zMROymOYqkBgVdjSfFlzqfPgcW34Tc0XcO7_cAYAjQuetbO8Je5Mm0pqWl3mQxsSM1g0UJyZUFIInB.olSsvMKKyInaGgSuV2xqACVjHnP5c4YKflC0XKw; TawkConnectionTime=1776789833072"
+# আপনার দেওয়া একদম নতুন কুকি
+COOKIE_DATA = "mauthtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJNX0k0VkE3RkU2UiIsInJvbGUiOiJ1c2VyIiwiYWNjZXNzX3BhdGgiOlsiL2Rhc2hib2FyZCJdLCJleHBpcnkiOjE3NzY4Mjg4NzgsImNyZWF0ZWQiOjE3NzY3NDI0NzgsIjJvbzkiOiJNc0giLCJleHAiOjE3NzY4Mjg4NzgsImlhdCI6MTc3Njc0MjQ3OCwic3ViIjoiTV9JNFZBN0ZFNlIifQ.LeXHWzXyMq0I0nNNnmdhDjk012ptMwhjvpMudjycebI; cf_clearance=J7bAKqV5Qc_9XIy5S2MS_zS5pNWMfp1bdH9jva7zD4o-1776828127-1.2.1.1-SeNhZhEcN3CsrAA63uAd.ZtZ7lkoOG2K7Z0cTJUgbV9QpJa2SQOAKngoMl_NpEuQKrBJLC4IEGPXxTVLdmt8UdBXaO3vBHgKU_dsjaeqz0aSoxWB9O1pFZvCW0UFz0ZqDNz_VJsRJ6Z5aUf0BYHX0cWodjTn0.bMxjWAjVGS_lVpu6aX2mBF6zgtlukpN2xoY5TI.9qESzE18ROpuI4ksds8w_D8OiCHG2MbN1Bov71z7W45RMWysHu5x2571rwcTUeWDPiU0SoZLb_.PbC21KS9FaaQsfMmo54O09lzJS_QKk6cX1kdRFXuFrg33RuM3hCSp_kavTp73yE.dJ4UoA; TawkConnectionTime=0; twk_uuid_681787a55d55ef191a9da720=%7B%22uuid%22%3A%221.Ws5fNn3B3jtPb5VwJIV72bULtbVrmIGVECkvIdlVtObmwTts0jfxpP7wOqftlRphv8hGSHEouYvyMG8KX6vsSezC5RRocZQO3z6AWCeEWJFEAETJ73gSnDcqX%22%2C%22version%22%3A3%2C%22domain%22%3A%22mnitnetwork.com%22%2C%22ts%22%3A1776828130385%7D"
 
 # ট্র্যাকিং 
 processed_ids = deque(maxlen=10000)
@@ -177,7 +178,8 @@ async def monitor_loop():
                             processed_ids.append(msg_id)
                             new_data_found = True
                             
-                            await asyncio.sleep(3.1)
+                            # ৫ সেকেন্ড করা হয়েছে
+                            await asyncio.sleep(5)
             
             if not new_data_found:
                 if time.time() - last_heartbeat > 30:
